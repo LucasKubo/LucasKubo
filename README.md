@@ -1,5 +1,5 @@
 <h1>Hi there ! 😁</h1>
-<p> My name is Lucas and currently I work at Porto Seguro as an intern in the Cyber Risk area.<br>
+<p> My name is Lucas and currently I work at Itaú Unibanco as an junior Back-end Software Egineer.<br>
     I'm a <b>Systems Analysis and Development</b> student at Instituto Federal de São Paulo (IFSP).<br>
     My technologies of interest are: Java, Python, ReactJS, HTML, CSS, JavaScript, MySQL, PostgreSQL, SQL Server.
 </p>
